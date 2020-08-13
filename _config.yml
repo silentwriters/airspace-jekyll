@@ -14,10 +14,11 @@ keep_files:
 
 
 # Site settings
-title: Airspace
+title: "Chaotic Minds, SIlent Writers"
 subtitle: "A free HTML5 agency template"
-url: "http://silentwriters.github.io" # the base hostname & protocol for your site
+url: "https://silentwriters.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: ""
 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
