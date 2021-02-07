@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: "Sulagna Saha"
 subtitle: "My personal website"
-url: "https://silentwriters.github.io" # the base hostname & protocol for your site
+url: "https://ssrasha.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 
